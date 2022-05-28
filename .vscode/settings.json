@@ -1,7 +1,7 @@
 {
   "editor.fontSize": 14,
   "terminal.integrated.fontSize": 12,
-  "editor.formatOnSave": false,
+  "editor.formatOnSave": true,
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
   },
